@@ -78,6 +78,7 @@ ro.charger.enable_suspend=true
 persist.vendor.cne.feature=1
 
 # Crypto
+ro.crypto.volume.contents_mode=aes-256-xts
 ro.crypto.volume.filenames_mode=aes-256-cts
 
 # Display
